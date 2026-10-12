@@ -11,3 +11,8 @@ A spiderman-themed Tamagotchi and pomodoro timer.
 - Spotify Integration: Detects if music is being played and Spidey will listen to it with you
 
 Made using Godot 4
+
+# How to run
+
+Download [spideybuddy.exe](https://github.com/chanuthiruwanima/Spidey-Study-Buddy/releases/download/v1.0/SpideyBuddy.exe)
+Run it
