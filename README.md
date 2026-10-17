@@ -16,3 +16,6 @@ Made using Godot 4
 
 Download [spideybuddy.exe](https://github.com/chanuthiruwanima/Spidey-Study-Buddy/releases/download/v1.0/SpideyBuddy.exe)
 Run it
+
+# Screenshot of the widget
+<img width="1906" height="997" alt="image" src="https://github.com/user-attachments/assets/cea1066b-9421-426d-b04f-ada94fbf8c7b" />
